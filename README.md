@@ -1,2 +1,0 @@
-# RIKS_lab2
-HELLO WORLD
